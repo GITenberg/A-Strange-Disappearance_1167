@@ -1,0 +1,40 @@
+_repo: A-Strange-Disappearance_1167
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Green, Anna Katharine
+    aliases:
+    - Rohlfs, Anna Katharine Green
+    - Rohlfs, Mrs. Charles
+    birthdate: 1846
+    deathdate: 1935
+    gutenberg_agent_id: '541'
+    url: http://www.gutenberg.org/2009/agents/541
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Katharine_Green
+description: Cover; A Strange Disappearance; Copyright; CONTENTS; CHAPTER I; A NOVEL
+  CASE; CHAPTER II; A FEW POINTS; CHAPTER III; THE CONTENTS OF A BUREAU DRAWER; CHAPTER
+  IV; THOMPSON'S STORY; CHAPTER V; A NEW YORK BELLE; CHAPTER VI; A BIT OF CALICO;
+  CHAPTER VII; THE HOUSE AT THE GRANBY CROSS ROADS; CHAPTER VIII; A WORD OVERHEARD;
+  CHAPTER IX; A FEW GOLDEN HAIRS; CHAPTER X; THE SECRET OF MR. BLAKE'S STUDIO; CHAPTER
+  XI; LUTTRA; CHAPTER XII; A WOMAN'S LOVE; CHAPTER XIII; A MAN'S HEART; CHAPTER XIV;
+  MRS. DANIELS; CHAPTER XV; A CONFAB; CHAPTER XVI; THE MARK OF THE RED CROSS; CHAPTER
+  XVII; THE CAPTURE.
+gutenberg_bookshelf: Detective Fiction
+gutenberg_issued: '1998-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1167'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Women household employees -- Fiction'
+- !lcsh 'Mystery fiction'
+- !lcsh 'Missing persons -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Police -- New York (State) -- New York -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- GITenberg
+title: A Strange Disappearance
+url: http://www.gutenberg.org/ebooks/1167
