@@ -1,5 +1,8 @@
 _repo: A-Strange-Disappearance_1167
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Green, Anna Katharine
@@ -19,6 +22,8 @@ description: Cover; A Strange Disappearance; Copyright; CONTENTS; CHAPTER I; A N
   XI; LUTTRA; CHAPTER XII; A WOMAN'S LOVE; CHAPTER XIII; A MAN'S HEART; CHAPTER XIV;
   MRS. DANIELS; CHAPTER XV; A CONFAB; CHAPTER XVI; THE MARK OF THE RED CROSS; CHAPTER
   XVII; THE CAPTURE.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1167#A-Strange-Disappearance
 gutenberg_bookshelf: Detective Fiction
 gutenberg_issued: '1998-01-01'
 gutenberg_type: Text
